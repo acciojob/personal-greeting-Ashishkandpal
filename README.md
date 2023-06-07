@@ -1,5 +1,3 @@
-# Button Counter
+# Write a React component that allows a user to enter their name and displays a personalized greeting.
 
-### Write a React component that tracks the number of times a button has been clicked and displays the count.
-
-Initially the content inside 'p' tag should be `Button clicked 0 times`. Whenever user clicks on button, the count inside 'p' tag should change. 
+![output](https://storage.googleapis.com/acciojob-open-file-collections/Screen_Recording_2023-02-27_at_12_23_45_PM_AdobeExpress.gif)
