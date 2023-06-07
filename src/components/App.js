@@ -4,8 +4,8 @@ import "./../styles/App.css";
 const App = () => {
   const [name, setName] = useState("");
 
-  const handleChange = (event) => {
-    setName(event.target.value);
+  const handleChange = (e) => {
+    setName(e.target.value);
   };
 
   return (
